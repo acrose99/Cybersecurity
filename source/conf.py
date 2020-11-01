@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Cybersecurity Resources'
-copyright = '2020, Alex Rose'
+copyright = '2020, Haris Qazi and Alex Rose'
 author = 'Haris Qazi and Alex Rose'
 
 # The full version, including alpha/beta/rc tags
