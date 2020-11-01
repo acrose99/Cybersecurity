@@ -4,7 +4,7 @@ This is meant to assist people looking for entry level Cybersecurity jobs. Meant
 NOTE: I DO NOT OWN ANY OF OF THIS INFORMATION. THIS IS JUST MEANT TO BE A COMPILATION OF VARIOUS RESOURCES. SOURCES ON THE BOTTOM.
 
 ## Table of contents
-* [Foothold Job Titles](#entry-level-job-titles-not-cybersecurity-per-se-but-for-getting-a-foothold-in-the-industry)
+* [General Job Titles](#entry-level-job-titles-not-cybersecurity-per-se-but-for-getting-a-foothold-in-the-industry)
 * [Entry-Level Job Titles](#entry-level-job-titles-cybersecurity)
 * [Mid-Level Job Titles](#mid-level)
 * [Advanced-Level Jobs Titles](#advanced-level)
@@ -137,7 +137,7 @@ Certifications
 
 Career Websites
 -------------------------
-https://www.indeed.com/ (Jobs/Internships)
+https://www.indeed.com/(Jobs/Internships)
 
 https://www.ziprecruiter.com/ (Jobs/Internships)
 
@@ -161,37 +161,37 @@ https://www.usajobs.gov/ (Jobs / Internship) (USA only)
 Sources
 ---------
 
-https://startacybercareer.com/best-entry-level-cyber-security-jobs/
+[Best entry level cyber-security jobs](https://startacybercareer.com/best-entry-level-cyber-security-jobs/)
 
-https://www.indeed.com/career-advice/finding-a-job/what-is-an-it-technician
+[What is an it technician](https://www.indeed.com/career-advice/finding-a-job/what-is-an-it-technician)
 
-https://www.thebalancecareers.com/network-administrator-525818
+[Network Administrator](https://www.thebalancecareers.com/network-administrator-525818)
 
-https://en.wikipedia.org/wiki/Database_administrator
+[Database Administrator](https://en.wikipedia.org/wiki/Database_administrator)
 
-https://www.indeed.com/career-advice/careers/what-does-a-system-administrator-do
+[What does a system administrator do?](https://www.indeed.com/career-advice/careers/what-does-a-system-administrator-do)
 
-https://securityintelligence.com/how-to-land-an-entry-level-cybersecurity-job/
+[How to land an entry level cybersecurity job](https://securityintelligence.com/how-to-land-an-entry-level-cybersecurity-job/)
 
-https://www.betterteam.com/security-administrator-job-description
+[Security Administrator Job Description](https://www.betterteam.com/security-administrator-job-description)
 
-https://i.lensdump.com/i/iHcJHP.png
+[IT Career roadmap](https://i.lensdump.com/i/iHcJHP.png)
 
-https://hiring.monster.com/employer-resources/job-description-templates/system-security-technician-job-description/
+[System-Security-Technician-Job-Description](https://hiring.monster.com/employer-resources/job-description-templates/system-security-technician-job-description/)
 
-https://www.cyberseek.org/pathway.html
+[Cybersecurity pathway](https://www.cyberseek.org/pathway.html)
 
-https://www.indeed.com/career-advice/career-development/how-to-become-a-cyber-security-analyst
+[How-To-Become-a-Cyber-Security-Analyst](https://www.indeed.com/career-advice/career-development/how-to-become-a-cyber-security-analyst)
 
-https://www.thebalancecareers.com/cyber-intelligence-analyst-2071296
+[Cyber-Intelligence-Analyst](https://www.thebalancecareers.com/cyber-intelligence-analyst-2071296)
 
-https://www.infosecinstitute.com/roles/incident-responder/
+[Incident Responder](https://www.infosecinstitute.com/roles/incident-responder/)
 
-https://www.cio.com/article/3346029/it-auditor-role-defined.html
+[It Auditor](https://www.cio.com/article/3346029/it-auditor-role-defined.html)
 
-https://www.fieldengineer.com/skills/cyber-security-consultant
+[Cyber-Security-Consultant](https://www.fieldengineer.com/skills/cyber-security-consultant)
 
-https://www.infosecinstitute.com/roles/cybersecurity-manager/
+[Cyber Security Manager](https://www.infosecinstitute.com/roles/cybersecurity-manager/)
 
-https://www.betterteam.com/cyber-security-engineer-job-description
+[Cyber-Security-Engineer-Job-Description](https://www.betterteam.com/cyber-security-engineer-job-description)
 

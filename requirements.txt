@@ -1,0 +1,3 @@
+sphinx
+recommonmark
+travis-sphinx
