@@ -50,8 +50,21 @@ exclude_patterns = []
 #
 html_theme = 'alabaster'
 
+from recommonmark.parser import CommonMarkParser
+from recommonmark.transform import AutoStructify
 
 source_suffix = ['.rst', '.md']
+
+source_parsers = {
+    '.md': CommonMarkParser,
+}
+
+
+def setup(app):
+    app.add_config_value('recommonmark_config', {
+        'enable_eval_rst': True,
+    }, True)
+    app.add_transform(AutoStructify)
 
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -67,5 +80,5 @@ html_theme_options = {
     'github_button': 'false',
     'travis_button': 'true',
     'show_powered_by': 'false'
-    'sidebar'
+                       'sidebar'
 }
